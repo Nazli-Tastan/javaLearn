@@ -3,6 +3,7 @@ package J11_MethodCreation;
 public class C01_MethodCreation {
 
         //main method açılış
+    //main olmadan aksiyon almaz
         /*
         code okunabilirliği ve sadeliği için sürekli kullanılan aksiyonlar için method create edip
         main method'a call edip run etmek uygulamanın test edilmesi mantanance ve reusable açısından tercih edilir
