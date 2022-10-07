@@ -2,8 +2,6 @@ package HalukJava.j10_StringManipulations;
 
 import java.util.Scanner;
 
-import static java.lang.System.in;
-
 public class C07_İndexOf_lastIndexOf {
     public static void main(String[] args) {
 

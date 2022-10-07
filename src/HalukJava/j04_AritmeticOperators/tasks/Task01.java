@@ -1,7 +1,5 @@
 package HalukJava.j04_AritmeticOperators.tasks;
 
-import java.util.Scanner;
-
 public class Task01 {
 	public static void main(String[] args) {
 		int x = 4;

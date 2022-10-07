@@ -1,6 +1,5 @@
 package HalukJava.j08_ifStatement_TernaryOperator;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Ex07 {

@@ -1,7 +1,5 @@
 package HalukJava.j08_ifStatement_TernaryOperator.Task_Nestedİf.Task_NestedI;
 
-import java.util.Scanner;
-
 public class Q08 {
     /*
      * TASK :
