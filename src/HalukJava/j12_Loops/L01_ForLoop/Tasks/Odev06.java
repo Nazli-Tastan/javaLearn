@@ -7,6 +7,12 @@ public class Odev06 {
         /* İlk 10 doğal sayının toplamını hesaplamak için bir kod yazın.
 
          */
+    int toplam=0;
+
+     for(int i=0; i<10; i++){
+         toplam+=i;
+     }
+        System.out.println("Birden 10 a kadar sayı toplamı=" +toplam);
 
 
 

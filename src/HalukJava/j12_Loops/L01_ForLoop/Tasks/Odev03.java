@@ -10,14 +10,17 @@ public class Odev03 {
      *  getAsalMi(int sayi)
      *  	return true/false
 
-     * */
+     *
+
+
+    /*
     public static void main(String[] args) {
 
         Scanner sc= new Scanner(System.in);
         System.out.println("Bir sayı giriniz");
-        int sayi =sc.nextInt();
+        int i =sc.nextInt();
 
-    getAsal(sayi);
+ for(int i=1; i <= ; i++)
 
 
 
@@ -31,9 +34,11 @@ public class Odev03 {
             if (sayi ==2){
                 break;
 
+
+
             }
 
             }
-        }
+        }*/
     }
 

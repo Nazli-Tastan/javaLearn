@@ -13,9 +13,5 @@ public class Odev07 {
 //        5 9 12 14 15
 
 
-
-
-
-
     }
 }

@@ -21,9 +21,9 @@ public class Odev09 {
         int sayi = scanner.nextInt();
         int toplam = 0;
 
-        for (int i = 1; i < sayi; i++) {
+        for (int i = 1; i <= sayi; i++) {
 
-            toplam = (i * i) + toplam;
+            toplam=toplam +(i * i) ;
 
         }
         System.out.println("Sayıların kareleri toplamı: " + toplam);
