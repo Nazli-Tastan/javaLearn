@@ -32,7 +32,7 @@ public class C01_Arrays {
         sayıArr[0] = 34;//  0 index array elamanı 34 değeri ile update edildi
         //array elemanlrı uniqe olmak zorunda değildir tekrarlı array elamnı olabilir.
 
-        // Array eleman sayısı boyut değeri...​
+        // Array eleman sayısı boyut değeri...
         System.out.println("sayıArr.length = " + sayıArr.length);//5
 
 
