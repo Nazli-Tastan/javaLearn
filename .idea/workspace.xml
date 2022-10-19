@@ -4,93 +4,105 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="13 EKİM 2022">
-      <change afterPath="$PROJECT_DIR$/src/day06/ASCII/ASCII.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/C01_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/C02_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/C03_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/C04_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/C05_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/C07_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/C09_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/CO6_MetCreationForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/CO8_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08/C01_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08/C02_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08/C03_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08/C04_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08/C05_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08/C06_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08/C07_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08/C08_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08/C09_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j13_Break_Contınue/C02_Contınue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j13_Break_Contınue/C03_AsalMı.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j13_Break_Contınue/C04_PinControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j13_Break_Contınue/C05_OCA_type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j13_Break_Contınue/CO1_Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/C05_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/C06_MdArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/C07_MdArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_01_Create_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_02_Create_array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_03_Create_array3_int.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_04_Create_Array_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_05_Array_with_for_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_06_Array_contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_07_array_max_value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_08_array_min_value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_09_array_second_max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_10_reverse_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_11_Average_of_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_12_Array_no14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_13_Advance_zeroFront.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_14_String_method_replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_15_Word_Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_16_Advance_Array_get_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_17_2d_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_18_2d_array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_19_2d_Array_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_20_Arrayboth_Ends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_21_Array_reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/HaftanınTaskii/T01_TopZ─▒plamaMesafeSays─▒.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/HaftanınTaskii/T02_IkininKuvveti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/HaftanınTaskii/T03_TasKagitMakas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/HaftanınTaskii/T04_AnagramKontrol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/HaftanınTaskii/T05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/HaftanınTaskii/T06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/Task15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/Task16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/Task17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/Task18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/TestScop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C01_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C02_nCopies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C03_indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C04_Get.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C05_size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C06_set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C07_subList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C08_isEmpty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C09_equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C10_Sort_reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C11_contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C12_remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C13_replaceAll_fill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C14_ListConvertArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/C15_ArrayConvertList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Tasks/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Tasks/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Tasks/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Tasks/Task04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Tasks/Task05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Tasks/Task06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Tasks/Task07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j16_ArrayList/Tasks/Task08.java" afterDir="false" />
+    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="17 EKİM 2022">
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q01_Sout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q02_Println_vs_print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q03_PrimitiveDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q04_JavaVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q05_EscapeSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q06_Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q07_Converting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q08_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q09_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q01_Modulus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q02_Modulus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q03_IncrementDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q04_IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q05_IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q06_IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q07_IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q01_NestedIfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q02_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q03_NestedTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q04_SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q05_NestedIfTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q06_SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q07_SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q01_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q02_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q03_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q04_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q05_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q06_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q07_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q08_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q09_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q10_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q11_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q12_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q13_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q01_MethodCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q02_MethodCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q03_MethodCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q04_MethodCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q05_MethodCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q06_MethodCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q07_MethodCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q08_MethodCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/ASCII.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q01_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q02_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q03_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q04_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q05_NestedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q06_MetCreationForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q07_Forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q08_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q09_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q01_WhileDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q02_Forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q03_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q04_NestedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q05_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q06_RecursiveForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q07_DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q09_Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q10_Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q11_Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q01_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q02_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q03_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q04_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q05_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q06_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q07_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q08_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q09_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q01_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q02_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q03_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q04_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q05_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q06_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q07_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q08_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q09_Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q10_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q11_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/C01_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/C02_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/C04_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/C05_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/C06_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/CO3_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/HaftanınTaskii/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j17_ForEachLoop/C01_ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j17_ForEachLoop/C02_ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j17_ForEachLoop/C03_ForEachLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C04_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C04_Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j15_Arrays/C01_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/C01_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j15_Arrays/C04_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/C04_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j16_ArrayList/Tasks/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j16_ArrayList/Tasks/Task05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,20 +135,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/javaLearn/src/day06/ASCII&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/javaLearn/src",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src" />
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\day06\ASCII" />
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j15_Arrays\EasyTasks" />
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j15_Arrays\HaftanınTaskii" />
@@ -145,13 +158,52 @@
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j15_Arrays\HaftanınTaskii" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task05">
-    <configuration name="C13_replaceAll_fill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j16_ArrayList.C13_replaceAll_fill" />
+  <component name="RunManager" selected="Application.Task10">
+    <configuration name="C01_ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j17_ForEachLoop.C01_ForEachLoop" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j16_ArrayList.*" />
+          <option name="PATTERN" value="j17_ForEachLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j17_ForEachLoop.C02_ForEachLoop" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j17_ForEachLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j17_ForEachLoop.C03_ForEachLoop" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j17_ForEachLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day09.C04_Arrays" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,66 +218,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j16_ArrayList.Tasks.Task03" />
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j15_Arrays.HaftanınTaskii.Task10" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j16_ArrayList.Tasks.*" />
+          <option name="PATTERN" value="j15_Arrays.HaftanınTaskii.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j16_ArrayList.Tasks.Task05" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="j16_ArrayList.Tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j16_ArrayList.Tasks.Task07" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="j16_ArrayList.Tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Unnamed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Task03" />
-      <item itemvalue="Application.Task05" />
-      <item itemvalue="Application.Task07" />
-      <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.C13_replaceAll_fill" />
+      <item itemvalue="Application.C01_ForEachLoop" />
+      <item itemvalue="Application.C02_ForEachLoop" />
+      <item itemvalue="Application.C03_ForEachLoop" />
+      <item itemvalue="Application.C04_Arrays" />
+      <item itemvalue="Application.Task10" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task05" />
-        <item itemvalue="Application.Task07" />
-        <item itemvalue="Application.Task03" />
-        <item itemvalue="Application.Unnamed" />
-        <item itemvalue="Application.C13_replaceAll_fill" />
+        <item itemvalue="Application.Task10" />
+        <item itemvalue="Application.C03_ForEachLoop" />
+        <item itemvalue="Application.C02_ForEachLoop" />
+        <item itemvalue="Application.C01_ForEachLoop" />
+        <item itemvalue="Application.C04_Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665608965136</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="17 EKİM 2022">
+      <created>1666040147763</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666040147763</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,7 +296,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12 EKİM 2022" />
     <MESSAGE value="13 EKİM 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="13 EKİM 2022" />
+    <MESSAGE value="17 EKİM 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="17 EKİM 2022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
