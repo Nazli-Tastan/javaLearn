@@ -4,105 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="17 EKİM 2022">
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q01_Sout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q02_Println_vs_print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q03_PrimitiveDataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q04_JavaVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q05_EscapeSequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q06_Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q07_Converting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q08_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q09_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q01_Modulus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q02_Modulus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q03_IncrementDecrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q04_IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q05_IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q06_IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q07_IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q01_NestedIfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q02_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q03_NestedTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q04_SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q05_NestedIfTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q06_SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day03/Q07_SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q01_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q02_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q03_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q04_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q05_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q06_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q07_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q08_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q09_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q10_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q11_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q12_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day04/Q13_StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q01_MethodCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q02_MethodCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q03_MethodCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q04_MethodCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q05_MethodCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q06_MethodCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q07_MethodCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q08_MethodCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/ASCII.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q01_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q02_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q03_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q04_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q05_NestedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q06_MetCreationForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q07_Forloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q08_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q09_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Label.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q01_WhileDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q02_Forloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q03_WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q04_NestedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q05_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q06_RecursiveForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q07_DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q09_Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q10_Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q11_Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q01_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q02_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q03_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q04_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q05_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q06_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q07_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q08_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day08/Q09_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q01_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q02_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q03_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q04_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q05_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q06_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q07_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q08_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q09_Arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q10_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q11_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09/C01_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09/C02_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09/C04_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09/C05_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09/C06_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09/CO3_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/HaftanınTaskii/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j17_ForEachLoop/C01_ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j17_ForEachLoop/C02_ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j17_ForEachLoop/C03_ForEachLoop.java" afterDir="false" />
+    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="19 EKİM 2022">
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C01_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C02_Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C03_Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C03_StudentRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C04_Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C04_TeacherRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C05_Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C05_AracRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C06_0grcRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C06_Ogrc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C07_Ogrtm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C07_OgrtmRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j16_ArrayList/Tasks/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j16_ArrayList/Tasks/Task05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,19 +50,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/javaLearn/src",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/javaLearn/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="j18_Constructor" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src" />
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\day06\ASCII" />
@@ -158,26 +76,13 @@
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j15_Arrays\HaftanınTaskii" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task10">
-    <configuration name="C01_ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j17_ForEachLoop.C01_ForEachLoop" />
+  <component name="RunManager" selected="Application.C07_OgrtmRunner">
+    <configuration name="C01_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j18_Constructor.C01_Constructor" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j17_ForEachLoop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j17_ForEachLoop.C02_ForEachLoop" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="j17_ForEachLoop.*" />
+          <option name="PATTERN" value="j18_Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +103,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09.C04_Arrays" />
+    <configuration name="C06_0grcRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j18_Constructor.C06_0grcRunner" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09.*" />
+          <option name="PATTERN" value="j18_Constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_OgrtmRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j18_Constructor.C07_OgrtmRunner" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j18_Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,19 +151,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.C01_ForEachLoop" />
-      <item itemvalue="Application.C02_ForEachLoop" />
+      <item itemvalue="Application.C01_Constructor" />
+      <item itemvalue="Application.C06_0grcRunner" />
+      <item itemvalue="Application.C07_OgrtmRunner" />
       <item itemvalue="Application.C03_ForEachLoop" />
-      <item itemvalue="Application.C04_Arrays" />
       <item itemvalue="Application.Task10" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C07_OgrtmRunner" />
+        <item itemvalue="Application.C06_0grcRunner" />
+        <item itemvalue="Application.C01_Constructor" />
         <item itemvalue="Application.Task10" />
         <item itemvalue="Application.C03_ForEachLoop" />
-        <item itemvalue="Application.C02_ForEachLoop" />
-        <item itemvalue="Application.C01_ForEachLoop" />
-        <item itemvalue="Application.C04_Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666040147763</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="19 EKİM 2022">
+      <created>1666204738232</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666204738232</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,7 +222,8 @@
     <MESSAGE value="12 EKİM 2022" />
     <MESSAGE value="13 EKİM 2022" />
     <MESSAGE value="17 EKİM 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="17 EKİM 2022" />
+    <MESSAGE value="19 EKİM 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="19 EKİM 2022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
