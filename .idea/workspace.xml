@@ -4,19 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="19 EKİM 2022">
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C01_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C02_Arac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C03_Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C03_StudentRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C04_Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C04_TeacherRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C05_Arac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C05_AracRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C06_0grcRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C06_Ogrc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C07_Ogrtm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j18_Constructor/C07_OgrtmRunner.java" afterDir="false" />
+    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="20 EKİM 2022">
+      <change afterPath="$PROJECT_DIR$/src/Mrv/Dizi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mrv/TekÇiftMi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Müsvedde/C01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Q01_Sout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Q02_Println_vs_print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Q03_PrimitiveDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Q04_JavaVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Q05_EscapeSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Q06_Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Q07_Converting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/Q10_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/random/C01_JavaMathClassMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/random/C03_RandomFormula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/random/C05_ConsoleMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/random/C06_ZarSorusu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/random/C2_MathClassMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/random/CO4_OddEvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j19_StaticVariable/C01_Ogrtmn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j19_StaticVariable/C01_OgrtmnRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j19_StaticVariable/C02_StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j20_PassByValue/C01_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j20_PassByValue/C02_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j20_PassByValue/C03_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j20_PassByValue/C04_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j20_PassByValue/C05_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j21_İmmutableClass/C01_ImmutableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j21_İmmutableClass/C02_OCA_Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j21_İmmutableClass/C05_OCA_ImmutableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j21_İmmutableClass/C06_OCA_ImmutableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j22_DataTime/C02_LocalTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j22_DataTime/C03_LocalDateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j22_DataTime/C04_DateTimeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j22_DataTime/CO1_LocalDate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,9 +55,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_HaftanınTaskiii.zip/Haftan─▒nTaskiii/T01_TopZ─▒plamaMesafeSays─▒.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -76,13 +94,13 @@
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j15_Arrays\HaftanınTaskii" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C07_OgrtmRunner">
-    <configuration name="C01_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j18_Constructor.C01_Constructor" />
+  <component name="RunManager" selected="Application.TekÇiftMi">
+    <configuration name="C01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Müsvedde.C01" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j18_Constructor.*" />
+          <option name="PATTERN" value="Müsvedde.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j17_ForEachLoop.C03_ForEachLoop" />
+    <configuration name="C03_LocalDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j22_DataTime.C03_LocalDateTime" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j17_ForEachLoop.*" />
+          <option name="PATTERN" value="j22_DataTime.C04_DateTimeFormatter" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,25 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_0grcRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j18_Constructor.C06_0grcRunner" />
+    <configuration name="C04_DateTimeFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j22_DataTime.C04_DateTimeFormatter" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j18_Constructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C07_OgrtmRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j18_Constructor.C07_OgrtmRunner" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="j18_Constructor.*" />
+          <option name="PATTERN" value="j22_DataTime.C04_DateTimeFormatter" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +141,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j15_Arrays.HaftanınTaskii.Task10" />
+    <configuration name="TekÇiftMi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mrv.TekÇiftMi" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j15_Arrays.HaftanınTaskii.*" />
+          <option name="PATTERN" value="Mrv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="j22_DateTime.C03_LocalDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j22_DateTime.C03_LocalDateTime" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j22_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,19 +169,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.C01_Constructor" />
-      <item itemvalue="Application.C06_0grcRunner" />
-      <item itemvalue="Application.C07_OgrtmRunner" />
-      <item itemvalue="Application.C03_ForEachLoop" />
-      <item itemvalue="Application.Task10" />
+      <item itemvalue="Application.C03_LocalDateTime" />
+      <item itemvalue="Application.C04_DateTimeFormatter" />
+      <item itemvalue="Application.TekÇiftMi" />
+      <item itemvalue="Application.j22_DateTime.C03_LocalDateTime" />
+      <item itemvalue="Application.C01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C07_OgrtmRunner" />
-        <item itemvalue="Application.C06_0grcRunner" />
-        <item itemvalue="Application.C01_Constructor" />
-        <item itemvalue="Application.Task10" />
-        <item itemvalue="Application.C03_ForEachLoop" />
+        <item itemvalue="Application.TekÇiftMi" />
+        <item itemvalue="Application.C01" />
+        <item itemvalue="Application.C04_DateTimeFormatter" />
+        <item itemvalue="Application.j22_DateTime.C03_LocalDateTime" />
+        <item itemvalue="Application.C03_LocalDateTime" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666204738232</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20 EKİM 2022">
+      <created>1666298739802</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666298739802</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,7 +248,8 @@
     <MESSAGE value="13 EKİM 2022" />
     <MESSAGE value="17 EKİM 2022" />
     <MESSAGE value="19 EKİM 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="19 EKİM 2022" />
+    <MESSAGE value="20 EKİM 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="20 EKİM 2022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
@@ -232,5 +258,17 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javaLearn$main.ic" NAME="main Coverage Results" MODIFIED="1665520410784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/javaLearn$main_class_.ic" NAME="main class  Coverage Results" MODIFIED="1665528666153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/javaLearn$C01.ic" NAME="C01 Coverage Results" MODIFIED="1666734420369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Müsvedde.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/javaLearn$Q04_JavaVariable.ic" NAME="Q04_JavaVariable Coverage Results" MODIFIED="1666535933496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/javaLearn$Q06_Average.ic" NAME="Q06_Average Coverage Results" MODIFIED="1666543054329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/javaLearn$C03_RandomFormula.ic" NAME="C03_RandomFormula Coverage Results" MODIFIED="1666628111321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day10.random.*</FILTER>
+    </SUITE>
   </component>
 </project>
