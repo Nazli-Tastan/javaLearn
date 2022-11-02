@@ -4,316 +4,302 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="29 EKİM 2022">
-      <change afterPath="$PROJECT_DIR$/src/SalaryCalculatıon/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SalaryCalculatıon/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Q01_LocalDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Q02_ZoneDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Q03_FirstTenSecond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Q04_NumberOfMonths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Q05_Varargs01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Q06_Varargs02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/printf/C01_TemelBilgiler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/printf/C02_CarpımTablosu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/printf/C03_MarketFişi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j23_Varargs/StringBuilder/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j23_Varargs/Varargs/C05_Varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j24_AccessModifier/C01_AccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j24_AccessModifier/C02_AccessModifier.java" afterDir="false" />
+    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="2 KASIM 2022">
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/inheritance01/Hayvancık.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/inheritance01/Kedi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/inheritance01/Koyun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/inheritance01/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/inheritance01/Paluk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/inheritance01/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/inheritance02/Hayvancık.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/inheritance02/Kedi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/inheritance02/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/inheritance02/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/task01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/task01/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/task01/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/task01/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/task02/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/task02/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J26_Inheritance/task02/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j19_StaticVariable/Task04_Bisiklet/Bisiklet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaProject3KASIM/task" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/Bilis╠ğim terimleri so╠êzlu╠êg╠åu╠ê .pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/Haftan/T01_TopZıplamaMesafeSaysı.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/HaftanınTaskiii/T01_TopZıplamaMesafeSaysı.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/HaftanınTaskiii/T02_IkininKuvveti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/HaftanınTaskiii/T03_TasKagitMakas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/Haftan─▒nTaskiii/T02_IkininKuvveti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/Haftan─▒nTaskiii/T03_TasKagitMakas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/a.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j01_Variables/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j01_Variables/tasks/Task01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j01_Variables/tasks/Task02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/C01_VariableCreate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/C02_DataTypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/C03_Concatenation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/C04_WrapperClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/C05_SwapInterviewQuestion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_01_create_int2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_02_create_int1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_03_create_int3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_04_create_int4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_05_create_boolean1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_06_create_boolean2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_07_create_double1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_08_create_double2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_09_create_double3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_10_create_double4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_11_create_float1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_12_create_float2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_13_create_float3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_14_create_short1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_15_create_short2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_16_create_short3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_17_create_char1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_18_create_char2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_19_create_char3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_20_create_byte1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j02_DataTypes_WrapperClass/tasks/_21_create_byte2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/C01_ScannerClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/C02_TypeCasting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/Data casting type.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/Task01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/Task02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/Task03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/Task04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/Task05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/Task06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/Task07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/Task08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/Task09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/Task10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/_22_Scanner1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/_23_Scanner2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/_24_Scanner3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/_25_Scanner4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/_26_Scanner5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/_27_Scanner6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/_28_Scanner7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/_29_Scanner9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j03_ScannerClass_TypeCasting/tasks/_30_Scanner8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/C01_AritmeticOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/C02_IncrementDecrement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/C03_RakamToplamı.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/C04_MathMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/Task01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/Task02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/Task03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/Task05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/Task06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/Task07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/Task08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/Task09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/_01_ArithmeticOperator_sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/_02_ArithmeticOperator_sum2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/_03_ArithmeticOperator_subtract1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/_04_ArithmeticOperator_subtract2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/_05_ArithmeticOperator_sum3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/_06_ArithmeticOperator_division1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/_07_ArithmeticOperator_division2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/_08_ArithmeticOperator_multiply1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/_09_ArithmeticOperator_multiply2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/_10_Arithmetic_Operator_multiply3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/_11_ArithmeticOperator_reminder1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/_12_ArithmeticOperator_reminder2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j04_AritmeticOperators/tasks/_13_ArithmeticOperator_reminder3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j05_Assaignment_Atama_Operators/C0_AtamaOperatoru.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Karsılastırma_Operators/C01_Comparison.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Karsılastırma_Operators/tasks/_14_ComparisonOperators_bigger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Karsılastırma_Operators/tasks/_15_ComparisonOperators_smaller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Karsılastırma_Operators/tasks/_16_ComparisonOperators_small_equal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Karsılastırma_Operators/tasks/_17_ComparisonOperators_equal_equal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Karsılastırma_Operators/tasks/_18_ComparisonOperators_equal_equal2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Karsılastırma_Operators/tasks/_19_ComparisonOperators_equals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Karsılastırma_Operators/tasks/_20_ComparisonOperators_bigger_equal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Karsılastırma_Operators/tasks/_21_ComparisonOperators_not_equal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Karsılastırma_Operators/tasks/_22_ComparisonOperators_not_equal2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Karsılastırma_Operators/tasks/_23_ComparisonOperators_small.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Karsılastırma_Operators/tasks/_24_ComparisonOperators_bigger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Kars─▒last─▒rma_Operators/C01_Comparison.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Kars─▒last─▒rma_Operators/tasks/_14_ComparisonOperators_bigger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Kars─▒last─▒rma_Operators/tasks/_15_ComparisonOperators_smaller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Kars─▒last─▒rma_Operators/tasks/_16_ComparisonOperators_small_equal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Kars─▒last─▒rma_Operators/tasks/_17_ComparisonOperators_equal_equal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Kars─▒last─▒rma_Operators/tasks/_18_ComparisonOperators_equal_equal2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Kars─▒last─▒rma_Operators/tasks/_19_ComparisonOperators_equals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Kars─▒last─▒rma_Operators/tasks/_20_ComparisonOperators_bigger_equal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Kars─▒last─▒rma_Operators/tasks/_21_ComparisonOperators_not_equal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Kars─▒last─▒rma_Operators/tasks/_22_ComparisonOperators_not_equal2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Kars─▒last─▒rma_Operators/tasks/_23_ComparisonOperators_small.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j06_Comparison_Kars─▒last─▒rma_Operators/tasks/_24_ComparisonOperators_bigger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j07_Logical_Mant/C01_MantıksalOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/C01_ifStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/C02_ifElseStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/C03_TernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/C04_TernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/C05_TernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/C06_NestedTernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/C07_NestedTernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/C08_NestedTernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/Ex01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/Ex02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/Ex03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/Ex04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/Ex05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/Ex06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/Ex07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/Ex08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/Ex09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/Ex10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/Ternary Operator Java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/Ternary_If Statement.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/IfElseIf02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/IfElseIf04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/IfStatement03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/Ifstatement04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/NestedIfSoru01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/NestedIfSoru02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/NestedIfSoru03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/Task01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_01_if_statement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_02_if_statement2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_03_if_statement3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_04_if_else_if_statement4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_05_if_else_if_statement5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_06_if_else_if_statement6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_07_if_else_if_statement7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_08_if_else_if_statement8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_09_if_else_if_statement_with_logic_operators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_10_if_else_if_statement_with_logic_operators2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_11_if_else_if_statement_with_logic_operators3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_15_if_else_statement_with_logic_operators4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_16_if_else_statement_with_logic_operators5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_17_if_else_if_statement_find_max.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_18_if_else_statement_find_min.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j08_ifStatement_TernaryOperator/tasks/_20_ticket_price.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/C01_SwitchCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/C02_SwitchCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/C03_SwitchCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/C04_SwitchCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/C05_SwitchCase_ATM_Project.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/C06_SwitchCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/tasks/Task01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/tasks/Task02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/tasks/Task03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/tasks/Task04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/tasks/Task05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/tasks/Task06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/tasks/Task07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j09_SwitchStatement/tasks/Task_SeyahatProjesi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/C01_Concatenation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/C02_Length.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/C03_CharAt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/C04_Contains.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/C05_Start_EndWith.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/C06_Substring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/C07_indexOf_lastIndexOf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/C08_Equals_equalsIgnoreCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/C09_Replace_ReplaceAll.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/C10_isEmpty.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/C11_ValueOf_parse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/Task01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/Task02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/Task03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/Task04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/Task05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/Task06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/Task07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/Task08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/Task09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/Task10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/Task11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/Task12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/Task13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_04_String_methods01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_05_String_methods02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_06_String_methods03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_07_String_methods04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_08_String_methods05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_09_String_methods06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_10_String_methods07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_11_String_methods08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_12_String_methods09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_13_String_methods10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_14_String_methods11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_16_String_methods12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_17_String_methods13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_18_String_methods14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_19_String_methods15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j10_StringManipulations/tasks/_20_String_methods16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/C01_MethodCreation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/C02_MethodCreation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/C03_MethodOverloading.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/C04_MethodCreation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/C04_MethodDepo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/C05_RecursiveMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task04AtmMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task15_UcusProject01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task15_UcusProject02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task15_UcusProject03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task16_KelimeOyunu01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/Task16_KelimeOyunu02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/_01_method1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j11_MethodCreation/tasks/_12_method12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/C01_ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/C02_ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/C03_NestedForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Odev01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Odev02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Odev03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Odev04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Odev05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Odev06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Odev07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Odev08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Odev09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Task01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Task02_Polindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Task03_Faktoriyel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Task04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Task05_Nested.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Task06_Nested.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Task07_Nested.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Task08_Nested.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Task09_Nested.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Task10_Nested.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Task11_Nested.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Task12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/Tasks/Task13_Nested.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/forLoop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L01_ForLoop/forLoop.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/C01_WhileLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/C02_WhileLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/C03_WhileLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/Tasks/Task01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/Tasks/Task02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/Tasks/Task03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/Tasks/Task04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/Tasks/Task05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/Tasks/Task06_sayiBulmaca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/Tasks/Task07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/Tasks/Task10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/Tasks/Task11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/Tasks/Task12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L02_WhileLoop/Tasks/Task13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L03_DoWhileLoop/C01_DoWhileLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L03_DoWhileLoop/C02_DoWhileLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j12_Lopps/L03_DoWhileLoop/dowhile_while.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j13_Break_Continue/C01_Break.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j13_Break_Continue/C02_Continue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j13_Break_Continue/C03_AsalKontrol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j13_Break_Continue/C04_PinControl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j13_Break_Continue/C05_OCA_type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j13_Break_Continue/C05_Task02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j13_Break_Continue/C06_Task.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j14_Scope/C01_InstanceVariable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j14_Scope/C02_StaticVariable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j14_Scope/C03_Scope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j14_Scope/C04_LocalVariable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/j15_Arrays/C01_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HalukJava/HalukJava/yeni bas╠ğlayanlar ic╠ğin IT ile ilgili 3 dilde so╠êzlu╠êk.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j23_Varargs/StringBuilder/C02_StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j23_Varargs/StringBuilder/C02_StringBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q01_Sout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q01_Sout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q02_Println_vs_print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q02_Println_vs_print.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q03_PrimitiveDataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q03_PrimitiveDataTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q04_JavaVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q04_JavaVariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q05_EscapeSequences.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q05_EscapeSequences.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q06_Average.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q06_Average.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q07_Converting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q07_Converting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q08_Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q08_Scanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q09_Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day01/Q09_Scanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q01_Modulus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q01_Modulus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q02_Modulus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q02_Modulus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q03_IncrementDecrement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q03_IncrementDecrement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q04_IfStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q04_IfStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q05_IfStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q05_IfStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q06_IfStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q06_IfStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q07_IfStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day02/Q07_IfStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q01_NestedIfStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q01_NestedIfStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q02_Ternary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q02_Ternary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q03_NestedTernary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q03_NestedTernary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q04_SwitchCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q04_SwitchCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q05_NestedIfTernary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q05_NestedIfTernary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q06_SwitchCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q06_SwitchCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q07_SwitchCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day03/Q07_SwitchCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q01_StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q01_StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q02_StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q02_StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q03_StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q03_StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q04_StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q04_StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q05_StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q05_StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q06_StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q06_StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q07_StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q07_StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q08_StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q08_StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q09_StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q09_StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q10_StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q10_StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q11_StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q11_StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q12_StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q12_StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q13_StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day04/Q13_StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q01_MethodCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q01_MethodCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q02_MethodCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q02_MethodCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q03_MethodCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q03_MethodCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q04_MethodCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q04_MethodCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q05_MethodCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q05_MethodCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q06_MethodCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q06_MethodCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q07_MethodCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q07_MethodCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q08_MethodCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day05/Q08_MethodCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q01_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q01_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q02_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q02_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q03_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q03_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q04_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q04_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q05_NestedForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q05_NestedForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q06_MetCreationForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q06_MetCreationForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q07_Forloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q07_Forloop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q08_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q08_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q09_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day06/Q09_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Challenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Challenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Label.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Label.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q01_WhileDoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q01_WhileDoWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q02_Forloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q02_Forloop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q03_WhileLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q03_WhileLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q04_NestedForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q04_NestedForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q05_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q05_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q06_RecursiveForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q06_RecursiveForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q07_DoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q07_DoWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q09_Continue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q09_Continue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q10_Break.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q10_Break.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q11_Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day07/Q11_Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q01_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q01_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q02_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q02_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q03_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q03_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q04_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q04_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q05_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q05_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q06_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q06_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q07_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q07_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q08_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q08_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q09_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day08/Q09_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q01_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q01_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q02_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q02_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q03_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q03_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q04_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q04_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q05_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q05_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q06_ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q06_ArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q07_ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q07_ArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q08_ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q08_ArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q09_Arraylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q09_Arraylist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q10_ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q10_ArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q11_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/EllyHocadan/day09/Q11_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/GirisProjectt/GirisPaneli.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/GirisProjectt/GirisPaneli.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/GirisProjectt/Kayıt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/GirisProjectt/Kayıt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/GirisProjectt/Kullanıcı.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/GirisProjectt/Kullanıcı.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/GirisProjectt/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/GirisProjectt/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/Mrv/Dizi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/Mrv/TekÇiftMi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/Müsvedde/C01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/Müsvedde/C02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/Müsvedde/C04_Dummy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/Müsvedde/C05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/SalaryCalculatıon/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/SalaryCalculatıon/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day01/Q01_Sout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day01/Q01_Sout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day01/Q02_Println_vs_print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day01/Q02_Println_vs_print.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day01/Q03_PrimitiveDataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day01/Q03_PrimitiveDataTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day01/Q04_JavaVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day01/Q04_JavaVariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day01/Q05_EscapeSequences.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day01/Q05_EscapeSequences.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day01/Q06_Average.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day01/Q06_Average.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day01/Q07_Converting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day01/Q07_Converting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day06/C01_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day06/C01_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day06/C02_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day06/C02_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day06/C03_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day06/C03_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day06/C04_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day06/C04_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day06/C05_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day06/C05_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day06/C07_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day06/C07_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day06/C09_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day06/C09_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day06/CO6_MetCreationForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day06/CO6_MetCreationForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day06/CO8_ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day06/CO8_ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day08/C01_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day08/C01_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day08/C02_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day08/C02_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day08/C03_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day08/C03_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day08/C04_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day08/C04_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day08/C05_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day08/C05_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day08/C06_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day08/C06_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day08/C07_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day08/C07_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day08/C08_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day08/C08_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day08/C09_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day08/C09_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day09/C01_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day09/C01_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day09/C02_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day09/C02_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day09/C04_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day09/C04_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day09/C05_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day09/C05_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day09/C06_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day09/C06_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day09/CO3_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day09/CO3_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day09/Q10_ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day09/Q10_ArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day10/random/C01_JavaMathClassMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day10/random/C01_JavaMathClassMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day10/random/C03_RandomFormula.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day10/random/C03_RandomFormula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day10/random/C05_ConsoleMinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day10/random/C05_ConsoleMinMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day10/random/C06_ZarSorusu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day10/random/C06_ZarSorusu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day10/random/C2_MathClassMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day10/random/C2_MathClassMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day10/random/CO4_OddEvenNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day10/random/CO4_OddEvenNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day11/Q01_LocalDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day11/Q01_LocalDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day11/Q02_ZoneDateTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day11/Q02_ZoneDateTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day11/Q03_FirstTenSecond.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day11/Q03_FirstTenSecond.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day11/Q04_NumberOfMonths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day11/Q04_NumberOfMonths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day11/Q05_Varargs01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day11/Q05_Varargs01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day11/Q06_Varargs02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day11/Q06_Varargs02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day11/printf/C01_TemelBilgiler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day11/printf/C01_TemelBilgiler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day11/printf/C02_CarpımTablosu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day11/printf/C02_CarpımTablosu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day11/printf/C03_MarketFişi$C03_MarketFisi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day11/printf/C03_MarketFişi$C03_MarketFisi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day11/printf/C03_MarketFişi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/day11/printf/C03_MarketFişi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Contınue/C02_Contınue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Contınue/C02_Contınue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Contınue/C03_AsalMı.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Contınue/C03_AsalMı.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Contınue/C04_PinControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Contınue/C04_PinControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Contınue/C05_OCA_type.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Contınue/C05_OCA_type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Contınue/CO1_Break.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j13_Break_Contınue/CO1_Break.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C01_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C01_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C02_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C02_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C03_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C03_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C04_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C04_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C05_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C05_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C06_MdArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C06_MdArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C07_MdArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C07_MdArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_01_Create_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_01_Create_array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_02_Create_array2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_02_Create_array2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_03_Create_array3_int.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_03_Create_array3_int.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_04_Create_Array_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_04_Create_Array_String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_05_Array_with_for_if.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_05_Array_with_for_if.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_06_Array_contains.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_06_Array_contains.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_07_array_max_value.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_07_array_max_value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_08_array_min_value.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_08_array_min_value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_09_array_second_max.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_09_array_second_max.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_10_reverse_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_10_reverse_String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_11_Average_of_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_11_Average_of_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_12_Array_no14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_12_Array_no14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_13_Advance_zeroFront.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_13_Advance_zeroFront.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_14_String_method_replace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_14_String_method_replace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_15_Word_Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_15_Word_Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_16_Advance_Array_get_sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_16_Advance_Array_get_sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_17_2d_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_17_2d_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_18_2d_array2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_18_2d_array2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_19_2d_Array_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_19_2d_Array_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_20_Arrayboth_Ends.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_20_Arrayboth_Ends.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_21_Array_reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_21_Array_reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/T01_TopZıplamaMesafeSaysı.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/T01_TopZıplamaMesafeSaysı.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/T02_IkininKuvveti.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/T02_IkininKuvveti.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/T03_TasKagitMakas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/T03_TasKagitMakas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/T04_AnagramKontrol.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/T04_AnagramKontrol.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/T05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/T05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/T06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/T06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/Task10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/HaftanınTaskii/Task10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/Task18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/TestScop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/TestScop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C01_ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C01_ArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C02_nCopies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C02_nCopies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C03_indexOf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C03_indexOf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C04_Get.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C04_Get.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C05_size.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C05_size.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C06_set.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C06_set.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C07_subList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C07_subList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C08_isEmpty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C08_isEmpty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C09_equals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C09_equals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C10_Sort_reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C10_Sort_reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C11_contains.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C11_contains.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C12_remove.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C12_remove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C13_replaceAll_fill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C13_replaceAll_fill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C14_ListConvertArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C14_ListConvertArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C15_ArrayConvertList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/C15_ArrayConvertList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j16_ArrayList/Tasks/Task08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j17_ForEachLoop/C01_ForEachLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j17_ForEachLoop/C01_ForEachLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j17_ForEachLoop/C02_ForEachLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j17_ForEachLoop/C02_ForEachLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j17_ForEachLoop/C03_ForEachLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j17_ForEachLoop/C03_ForEachLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C01_Constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C01_Constructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C02_Arac.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C02_Arac.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C03_Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C03_Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C03_StudentRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C03_StudentRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C04_Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C04_Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C04_TeacherRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C04_TeacherRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C05_Arac.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C05_Arac.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C05_AracRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C05_AracRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C06_0grcRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C06_0grcRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C06_Ogrc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C06_Ogrc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C07_Ogrtm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C07_Ogrtm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C07_OgrtmRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C07_OgrtmRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/MyConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/MyConstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j19_StaticVariable/C01_Ogrtmn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j19_StaticVariable/C01_Ogrtmn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j19_StaticVariable/C01_OgrtmnRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j19_StaticVariable/C01_OgrtmnRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j19_StaticVariable/C02_StaticBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j19_StaticVariable/C02_StaticBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j20_PassByValue/C01_PassByValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j20_PassByValue/C01_PassByValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j20_PassByValue/C02_PassByValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j20_PassByValue/C02_PassByValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j20_PassByValue/C03_PassByValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j20_PassByValue/C03_PassByValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j20_PassByValue/C04_PassByValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j20_PassByValue/C04_PassByValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j20_PassByValue/C05_PassByValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j20_PassByValue/C05_PassByValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j21_İmmutableClass/C01_ImmutableClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j21_İmmutableClass/C01_ImmutableClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j21_İmmutableClass/C02_OCA_Equals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j21_İmmutableClass/C02_OCA_Equals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j21_İmmutableClass/C05_OCA_ImmutableClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j21_İmmutableClass/C05_OCA_ImmutableClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j21_İmmutableClass/C06_OCA_ImmutableClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j21_İmmutableClass/C06_OCA_ImmutableClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C01_LocalDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C01_LocalDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C02_LocalTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C02_LocalTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C04_DateTimeFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C04_DateTimeFormatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C05_zonedDateTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C05_zonedDateTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C06_Duratıon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C06_Duratıon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C07_ComparingDateTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C07_ComparingDateTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C08_Period.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C08_Period.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C09_OCA01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C09_OCA01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C10_OCA02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C10_OCA02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C11_OCA03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C11_OCA03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C12_OCA04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C12_OCA04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C13_0CA5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/C13_0CA5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/HaftaninSorusu/Kullanıcı.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/HaftaninSorusu/Kullanıcı.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/HaftaninSorusu/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/HaftaninSorusu/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DateTime/C03_LocalDateTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DateTime/C03_LocalDateTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/StringBuilder/C01_StringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/StringBuilder/C01_StringBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/StringBuilder/C02_StringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/StringBuilder/C02_StringBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/Varargs/C01_Varargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/Varargs/C01_Varargs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/Varargs/C02_Varargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/Varargs/C02_Varargs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/Varargs/C05_Varargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/Varargs/C05_Varargs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/Varargs/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/Varargs/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/Varargs/Task02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/Varargs/Task02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/Varargs/Task03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j23_Varargs/Varargs/Task03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/kitapYonetimii/EklenenKitaplar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/kitapYonetimii/Kitapcı_KitapEkle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/kitapYonetimii/Kitapcı_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j25_Encapsulatıon/C02_Encapsulation.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -348,7 +334,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/javaLearn/src/HalukJava&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/javaLearn/src/J26_Inheritance/inheritance02&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -357,29 +343,47 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="j25_Encapsulatıon" />
       <recent name="j18_Constructor" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\J26_Inheritance\inheritance02" />
+      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\javaProject" />
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\HalukJava" />
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\kayıtYönetimi" />
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\GirişProject" />
-      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src" />
-      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\day06\ASCII" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j15_Arrays\HaftanınTaskii" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="J26_Inheritance.inheritance01" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="j24_AccessModifier" />
       <recent name="j23_Varargs.Varargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C02_StringBuilder">
-    <configuration name="C02_CarpımTablosu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day11.printf.C02_CarpımTablosu" />
+  <component name="RunManager" selected="Application.Bisiklet">
+    <configuration name="Bisiklet$Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j19_StaticVariable.Task04_Bisiklet.Bisiklet$Runner" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11.printf.*" />
+          <option name="PATTERN" value="j19_StaticVariable.Task04_Bisiklet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bisiklet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j19_StaticVariable.Task04_Bisiklet.Bisiklet" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j19_StaticVariable.Task04_Bisiklet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,12 +411,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q04_NumberOfMonths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day11.Q04_NumberOfMonths" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j19_StaticVariable.Task04_Bisiklet.Runner" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11.*" />
+          <option name="PATTERN" value="j19_StaticVariable.Task04_Bisiklet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,25 +424,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q05_Varargs01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day11.Q05_Varargs01" />
+    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="J26_Inheritance.task02.SubClass" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q06_Varargs02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day11.Q06_Varargs02" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day11.*" />
+          <option name="PATTERN" value="J26_Inheritance.task02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,19 +439,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.C02_CarpımTablosu" />
-      <item itemvalue="Application.Q04_NumberOfMonths" />
-      <item itemvalue="Application.Q05_Varargs01" />
-      <item itemvalue="Application.Q06_Varargs02" />
+      <item itemvalue="Application.Bisiklet" />
+      <item itemvalue="Application.Bisiklet$Runner" />
+      <item itemvalue="Application.Runner" />
+      <item itemvalue="Application.SubClass" />
       <item itemvalue="Application.C02_StringBuilder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bisiklet" />
+        <item itemvalue="Application.Bisiklet$Runner" />
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.SubClass" />
         <item itemvalue="Application.C02_StringBuilder" />
-        <item itemvalue="Application.C02_CarpımTablosu" />
-        <item itemvalue="Application.Q06_Varargs02" />
-        <item itemvalue="Application.Q05_Varargs01" />
-        <item itemvalue="Application.Q04_NumberOfMonths" />
       </list>
     </recent_temporary>
   </component>
@@ -529,7 +520,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666993249606</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" 31 EKİM 2022">
+      <created>1667276937714</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667276937714</updated>
+    </task>
+    <task id="LOCAL-00010" summary=" 31 EKİM 2022">
+      <created>1667276958909</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667276958909</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2 KASIM 2022">
+      <created>1667429221111</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667429221114</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -552,7 +564,9 @@
     <MESSAGE value="26 EKİM 2022" />
     <MESSAGE value="27 EKİM 2022" />
     <MESSAGE value="29 EKİM 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="29 EKİM 2022" />
+    <MESSAGE value=" 31 EKİM 2022" />
+    <MESSAGE value="2 KASIM 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 KASIM 2022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

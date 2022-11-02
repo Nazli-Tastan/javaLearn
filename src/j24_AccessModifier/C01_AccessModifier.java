@@ -43,4 +43,7 @@ public class C01_AccessModifier {
 
     }
     C01_AccessModifier obj3=new C01_AccessModifier();//private cons call edilid aynı class
+
+    public static class C03_AccessModifier {
+    }
 }

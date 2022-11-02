@@ -59,6 +59,8 @@ public class C01_StringBuilder {
 
     }//main sonu
 
+    //Strinde equals sadece variable ye bakar. == hem variable ye hem referansa bakar. StringBuilder de ise equals hem variableye hem referansa bakar, compare sadece variable ye bakar
+
     public static void strBirlestir(String str) {
         System.out.println(str + " agama selam olsun :) ");
     }
