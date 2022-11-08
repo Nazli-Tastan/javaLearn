@@ -1,5 +1,7 @@
 package EllyHocadan.day01;
 
+import java.util.Scanner;
+
 public class Q07_Converting {
 
      /*

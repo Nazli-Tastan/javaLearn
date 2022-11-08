@@ -1,5 +1,7 @@
 package EllyHocadan.day07;
 
+import java.util.Scanner;
+
 public class Q01_WhileDoWhile {
     // girilen sayının basamaklarındaki rakamların toplamını bulunuz.
 

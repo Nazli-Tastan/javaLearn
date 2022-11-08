@@ -1,5 +1,7 @@
 package EllyHocadan.day06;
 
+import com.sun.tools.javac.Main;
+
 import java.util.Scanner;
 
 public class Q08_ForLoop {

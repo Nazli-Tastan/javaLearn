@@ -1,5 +1,7 @@
 package EllyHocadan.day02;
 
+import java.util.Scanner;
+
 public class Q01_Modulus {
     // verilen 12345 sayisinin rakamlarini yukaridan asagiya dogru yazdiriniz
     // Hint: use / and %

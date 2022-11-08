@@ -80,18 +80,21 @@ public class Bisiklet {
         }
 
 
-        public static main(String[]args){
-
-            Scanner sc = new Scanner(System.in);
-            Bisiklet bisiklet = bisikletOlustur();
-            int secim;
-            System.out.println("Bisiklete hoşgeldin");
-            do {
-                bisiklet.menu();
-                secim = sc.nextInt();
-                bisiklet.secim(secim);
-            } while (secim >= 1 && secim <= 5);
 
         }
+
+
+    public static void main(String[] args) {
+
+
+        Scanner sc = new Scanner(System.in);
+        Bisiklet bisiklet = bisikletOlustur();
+        int secim;
+        System.out.println("Bisiklete hoşgeldin");
+        do {
+            bisiklet.menu();
+            secim = sc.nextInt();
+            bisiklet.secim(secim);
+        } while (secim >= 1 && secim <= 5);
     }
 }
