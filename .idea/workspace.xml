@@ -4,96 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="7 KASIM 2022">
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day10/random/C1_JavaMathClassMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day10/random/C3_RandomFormula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day10/random/C6_ZarSorusu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/Q02_ZoneDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/Q03_FirstTenSecond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/Q06_Varargs02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/printf/C02_CarpimTablosu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/printf/C03_MarketFisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/printf/Integer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/printf/String.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/printf/_BmiWithPrintf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/printf/format specifer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/printf/formatSpecifier.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day13/Q01_CountOfCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day13/Q02_MergeCertainCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day13/Q03_PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day13/Q04_CountOfEnterCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day13/Q06_FrequecyWithStringValueOff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day13/Q07_IsDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j13_Break_Contınue/Q05_CertaınCharacterCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C01_AritmeticException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C02_FileInputStreamExceptıon02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/ebikgabık" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ÖDEVLER/YAPILACAK ÖDEVLER" afterDir="false" />
+    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="9 KASIM 2022">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/day06/ASCII/ASCII.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EllyHocadan/day01/Q07_Converting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day01/Q07_Converting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EllyHocadan/day02/Q01_Modulus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day02/Q01_Modulus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EllyHocadan/day05/Q07_MethodCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day05/Q07_MethodCreation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EllyHocadan/day06/Q08_ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day06/Q08_ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EllyHocadan/day07/Q01_WhileDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day07/Q01_WhileDoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EllyHocadan/day09/Q02_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q02_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EllyHocadan/day09/Q03_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q03_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EllyHocadan/day09/Q07_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q07_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EllyHocadan/day09/Q08_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q08_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EllyHocadan/day09/Q09_Arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q09_Arraylist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EllyHocadan/day09/Q10_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q10_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EllyHocadan/day09/Q11_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day09/Q11_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/Q01_Sout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/Q02_Println_vs_print.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/Q03_PrimitiveDataTypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/Q04_JavaVariable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/Q05_EscapeSequences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/Q06_Average.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/Q07_Converting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/ASCII/ASCII.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/C01_ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/C02_ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/C03_ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/C04_ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/C05_ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/C07_ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/C09_ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/CO6_MetCreationForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/CO8_ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08/C01_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08/C02_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08/C03_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08/C04_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08/C05_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08/C06_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08/C07_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08/C08_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08/C09_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/C01_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/C02_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/C04_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/C05_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/C06_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/CO3_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/Q10_ArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/random/C01_JavaMathClassMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/random/C03_RandomFormula.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/random/C05_ConsoleMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day10/random/C5_ConsoleMinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/random/C06_ZarSorusu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/random/C2_MathClassMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day10/random/C2_MathClassMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/random/CO4_OddEvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day10/random/C4_OddEvenNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/Q01_LocalDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/Q01_LocalDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/Q02_ZoneDateTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/Q03_FirstTenSecond.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/Q04_NumberOfMonths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/Q04_NumberOfDaysInMonths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/Q05_Varargs01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/Q05_Varargs01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/Q06_Varargs02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/printf/C01_TemelBilgiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day11/printf/C01_TemelBilgiler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/printf/C02_CarpımTablosu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11/printf/C03_MarketFişi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12K_Hoca/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day12K_Hoca/Q01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12K_Hoca/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllyHocadan/day12K_Hoca/Q02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j19_StaticVariable/Task04_Bisiklet/Bisiklet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j19_StaticVariable/Task04_Bisiklet/Bisiklet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -352,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667843636959</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="9 KASIM 2022">
+      <created>1667944072279</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667944072279</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,7 +298,8 @@
     <MESSAGE value=" 31 EKİM 2022" />
     <MESSAGE value="2 KASIM 2022" />
     <MESSAGE value="7 KASIM 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 KASIM 2022" />
+    <MESSAGE value="9 KASIM 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 KASIM 2022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
