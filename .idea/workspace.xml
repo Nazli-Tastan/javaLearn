@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="9 KASIM 2022">
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/EbubekirHoca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/ObebOkek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day13/HesapMakinesi/HesapMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day13/HesapMakinesi/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C03_ClassCastExceptıon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C04_NullPointerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C05_ArrayIndexOutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C06_NumberFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C07_IllegalargumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C08_DateTimeExceptıon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -272,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667944072279</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="9 KASIM 2022">
+      <created>1667945961987</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667945961987</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
