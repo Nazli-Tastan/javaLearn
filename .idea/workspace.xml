@@ -4,18 +4,126 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="9 KASIM 2022">
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/EbubekirHoca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/ObebOkek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day13/HesapMakinesi/HesapMakinesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EllyHocadan/day13/HesapMakinesi/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C03_ClassCastExceptıon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C04_NullPointerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C05_ArrayIndexOutOfBoundsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C06_NumberFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C07_IllegalargumentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C08_DateTimeExceptıon.java" afterDir="false" />
+    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="10 KASIM 2022">
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/notHesap/InfoProject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/notHesap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/notHesap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/notHesap/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/Islemler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/Kisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/OKUL YO╠êNETI╠çM PLATFORMU.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/Ogretmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/OkulYo╠ênetimi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/Kisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/MethodClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/OKUL YO╠êNETI╠çM PLATFORMU.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/Ogretmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/OkulYonetimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/OkulYo╠ênetimi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/T.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/AnaMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/AnaMenuInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/Islemler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/IslemlerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/Kisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/Ogretmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/Task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/TryCatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Degistirme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/GirisCikisInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Islem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Kisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/OgrenciDegistirme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/OgrenciIslemleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Ogretmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/OgretmenDegistirme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/OgretmenIslemleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Müsvedde/ÖrnekMutableImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Müsvedde/Örnekpassbyvalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C07_IllegalargumentException02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j29_Exceptıon/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/ABSTRACT.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Abstract Class.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Abstract.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/C01_Abstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek1/BinekOto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek1/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek1/OtoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Cember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Dikdortgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/GeometriMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Sekil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Soru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/Baklava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/CheeseCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/GreekSalad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/Salad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/SezarSalad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/Sweet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/YemekDunyasiMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek4/Hayvan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek4/HayvanatBahcesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek4/Kartal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek4/Kedi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek4/Soru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek5/AdanaKebap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek5/Borsh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek5/IFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek5/Lahmacun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek5/Palov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek5/Soru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek5/TechnoCafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek5/TechnoKitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek5/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek6/BOA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek6/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek6/BankingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek6/ChaseBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek6/Soru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek6/WellsFargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek6/bank.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek7/DMGFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek7/EXEFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek7/FileMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek7/PowePointFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek7/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek7/TxtFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek8/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek8/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek8/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek8/Flying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek8/Sailling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek8/Shark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek8/Swallow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract01/Accord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract01/Civic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract01/Crv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract01/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract01/Lastik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract01/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/sirket/Calisan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/sirket/insan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/~$STRACT.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Müsvedde/C05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Müsvedde/C05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j29_Exceptıon/C02_FileInputStreamException01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C02_FileInputStreamException01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j29_Exceptıon/C07_IllegalargumentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j29_Exceptıon/C07_IllegalargumentException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,29 +157,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/javaLearn/src/EllyHocadan&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/javaLearn/src/JavaProjectOkulYönetimi",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="j25_Encapsulatıon" />
       <recent name="j18_Constructor" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\JavaProjectOkulYönetimi" />
+      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j32_Abstract" />
+      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j25_Encapsulatıon\TASK" />
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\EllyHocadan" />
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\J26_Inheritance\inheritance02" />
-      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\javaProject" />
-      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\HalukJava" />
-      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\kayıtYönetimi" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j15_Arrays\HaftanınTaskii" />
@@ -84,13 +192,13 @@
       <recent name="j23_Varargs.Varargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C01_AritmeticException">
-    <configuration name="Bisiklet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j19_StaticVariable.Task04_Bisiklet.Bisiklet" />
+  <component name="RunManager" selected="Application.Task01">
+    <configuration name="C05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Müsvedde.C05" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j19_StaticVariable.Task04_Bisiklet.*" />
+          <option name="PATTERN" value="Müsvedde.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,8 +206,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_AritmeticException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j29_Exceptıon.C01_AritmeticException" />
+    <configuration name="C07_IllegalargumentException01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j29_Exceptıon.C07_IllegalargumentException01" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
@@ -118,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q04_CountOfEnterCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EllyHocadan.day13.Q04_CountOfEnterCode" />
+    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j29_Exceptıon.Task01" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EllyHocadan.day13.*" />
+          <option name="PATTERN" value="j29_Exceptıon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q05_CertaınCharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j13_Break_Contınue.Q05_CertaınCharacterCount" />
+    <configuration name="ÖrnekMutableImmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Müsvedde.ÖrnekMutableImmutable" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j13_Break_Contınue.*" />
+          <option name="PATTERN" value="Müsvedde.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q06_FrequecyWithStringValueOff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EllyHocadan.day13.Q06_FrequecyWithStringValueOff" />
+    <configuration name="Örnekpassbyvalue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Müsvedde.Örnekpassbyvalue" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EllyHocadan.day13.*" />
+          <option name="PATTERN" value="Müsvedde.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,19 +267,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.C01_AritmeticException" />
-      <item itemvalue="Application.Q04_CountOfEnterCode" />
-      <item itemvalue="Application.Q05_CertaınCharacterCount" />
-      <item itemvalue="Application.Q06_FrequecyWithStringValueOff" />
-      <item itemvalue="Application.Bisiklet" />
+      <item itemvalue="Application.C05" />
+      <item itemvalue="Application.C07_IllegalargumentException01" />
+      <item itemvalue="Application.Task01" />
+      <item itemvalue="Application.ÖrnekMutableImmutable" />
+      <item itemvalue="Application.Örnekpassbyvalue" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C01_AritmeticException" />
-        <item itemvalue="Application.Q06_FrequecyWithStringValueOff" />
-        <item itemvalue="Application.Q05_CertaınCharacterCount" />
-        <item itemvalue="Application.Bisiklet" />
-        <item itemvalue="Application.Q04_CountOfEnterCode" />
+        <item itemvalue="Application.Task01" />
+        <item itemvalue="Application.C07_IllegalargumentException01" />
+        <item itemvalue="Application.ÖrnekMutableImmutable" />
+        <item itemvalue="Application.Örnekpassbyvalue" />
+        <item itemvalue="Application.C05" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667945961987</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="10 KASIM 2022">
+      <created>1668029541523</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668029541523</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +431,8 @@
     <MESSAGE value="2 KASIM 2022" />
     <MESSAGE value="7 KASIM 2022" />
     <MESSAGE value="9 KASIM 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="9 KASIM 2022" />
+    <MESSAGE value="10 KASIM 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 KASIM 2022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

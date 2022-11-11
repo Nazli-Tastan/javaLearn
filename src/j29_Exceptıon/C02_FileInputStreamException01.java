@@ -37,6 +37,7 @@ public class C02_FileInputStreamException01 {
             //-1 hiçlik demek.READ dosyayı oku demek
             System.out.print((char)k);//k int  ascci olan file değeri char ici casting-> type dönüşümü
 
+
         }
     }
 
