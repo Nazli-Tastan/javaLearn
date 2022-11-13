@@ -35,7 +35,7 @@ public class C01_StringBuilder {
 
         System.out.println("method sonrası str : " + str);// JavaCAN ->immutable
 
-        // task -> 50000 tekrarlı bir loop ile String ve StringBuilder obj run time surelerini karsılatırın
+        // 00 -> 50000 tekrarlı bir loop ile String ve StringBuilder obj run time surelerini karsılatırın
 
         String str1 = "";
         StringBuilder sb1 = new StringBuilder("");

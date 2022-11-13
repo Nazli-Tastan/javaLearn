@@ -2,7 +2,7 @@ package j17_ForEachLoop;
 
 public class C02_ForEachLoop {
     public static void main(String[] args) {
-        //task Array elemanlarının çarpımını print eden code create ediniz
+        //00 Array elemanlarının çarpımını print eden code create ediniz
 
        int arr[][]={{2,3},{4},{5,6,7}};
        int carp=1;

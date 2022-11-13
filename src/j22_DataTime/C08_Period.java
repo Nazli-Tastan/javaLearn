@@ -32,7 +32,7 @@ public class C08_Period {
         System.out.println("bugun = " + bugun);
         bugun = bugun.plus(periodX);
         System.out.println("bugun = " + bugun);
-        // task-> 5.9.2022 de başlayan kur 9 ay olduguna göre bitiş tarihini print eden code create ediniz
+        // 00-> 5.9.2022 de başlayan kur 9 ay olduguna göre bitiş tarihini print eden code create ediniz
 
         LocalDate kursBasla = LocalDate.of(2022, 9, 5);
         System.out.println("kursBasla = " + kursBasla);

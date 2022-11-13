@@ -22,7 +22,7 @@ public class C02_Arac {
             arac1.motorHcm=2.4;
             //                   volvo            xc60             50000       default=0       true               2.4
             System.out.println(arac1.marka+" "+arac1.model+" "+arac1.km+" "+arac1.yıl+" "+arac1.ikinciEl+" "+arac1.motorHcm);//
-            //task -> 2. bir aracın tum field'larını atayarak print ediniz
+            //00 -> 2. bir aracın tum field'larını atayarak print ediniz
             C02_Arac myCar= new C02_Arac();//default cons ile arac1 obj create edildi
             myCar.ikinciEl=false;
             myCar.marka="honda";

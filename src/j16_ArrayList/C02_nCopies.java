@@ -23,7 +23,7 @@ public class C02_nCopies {
 
         System.out.println("listSehir = " + listSehir);//
 
-        //task-> 1 den 10 kadar sayılara bir liste atayıp print eden code create ediniz
+        //00-> 1 den 10 kadar sayılara bir liste atayıp print eden code create ediniz
         ArrayList<Integer> listSayi= new ArrayList<>();//boş integer list
         for (int i = 1; i <=10; i++) {
             listSayi.add(i);

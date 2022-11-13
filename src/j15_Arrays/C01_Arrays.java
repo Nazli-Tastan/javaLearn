@@ -55,18 +55,18 @@ public class C01_Arrays {
         System.out.println(Arrays.toString(isimArr));//isim Array sitringe çevrildi.
 
 
-        // task-> sayıArr elemanlarından değeri tek olanları print eden code create ediniz
+        // 00-> sayıArr elemanlarından değeri tek olanları print eden code create ediniz
 
         for (int i = 0; i < sayıArr.length; i++) {
             if (sayıArr[i] % 2 == 1) {
                 System.out.println(sayıArr[i] + " ");
             }
         }
-        // task-> sayıArr cift index  elemanları  print eden code create ediniz.
+        // 00-> sayıArr cift index  elemanları  print eden code create ediniz.
         for (int i = 0; i < sayıArr.length; i += 2) {
             System.out.print(sayıArr[i] + " ");//34 34
         }
-        // task-> isimArr 5 harfli elemanlarında oluşan arrayın  elemanlarını  print eden code create ediniz.
+        // 00-> isimArr 5 harfli elemanlarında oluşan arrayın  elemanlarını  print eden code create ediniz.
 
         int koltukSayısı = 0;
         //isimArr elemanı kadar boş yeni arr

@@ -17,7 +17,7 @@ public class C03_StudentRunner {
             //ogrc1 = C03_Student{ad='fatih', soyad='Ataş', sınıf=1, ortalama=77.0, okulNo=1001, takdir=false}
             //ogrc1 = {ad='fatih', soyad='Ataş', sınıf=1, ortalama=77.0, okulNo=1001}
             ogrc1.mezuniyet();//agam diploman hayırlı nolsun :)
-            // task-> diğer bir ogrc obj ile tum field'ları atayıp print ediniz...
+            // 00-> diğer bir ogrc obj ile tum field'ları atayıp print ediniz...
 
 
 

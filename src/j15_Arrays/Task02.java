@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Task02 {
     public static void main(String[] args) {
 
-        //task-> girilen int array elemanları toplamını print eden code create ediniz.
+        //00-> girilen int array elemanları toplamını print eden code create ediniz.
         Scanner sc = new Scanner(System.in);
 
         System.out.print("agam kaç elemanlı array istirsen : ");

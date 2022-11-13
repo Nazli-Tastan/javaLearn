@@ -9,7 +9,7 @@ public class C01_PassByValue {
         değil bir copy clone (vesikalık) (pointer)değeri gönderilir.
 
          */
-        // task -> verilen fiyat için %24 artırılmış fiyatı print eden method  create ediniz.
+        // 00 -> verilen fiyat için %24 artırılmış fiyatı print eden method  create ediniz.
 
         double fiyat =100;//primitive double type variable
 

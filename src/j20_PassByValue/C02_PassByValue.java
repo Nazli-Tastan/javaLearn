@@ -3,7 +3,7 @@ package j20_PassByValue;
 public class C02_PassByValue {
     public static void main(String[] args) {
 
-        //  task -> verilen fiyat için %11 %22 ve %33  indirimli  fiyatı print eden methodlar  create ediniz.
+        //  00 -> verilen fiyat için %11 %22 ve %33  indirimli  fiyatı print eden methodlar  create ediniz.
 
         double fiyat =100;//primitive double type variable
 
