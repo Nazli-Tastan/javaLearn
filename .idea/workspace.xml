@@ -4,58 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="12 KASIM 2022">
-      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract02/IdariPersonel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract02/Isci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract02/Personel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract02/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/C01_İnterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/Lastik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/Sahin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/Tofas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/dısDonanım.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/icDonanım.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task02/carsInterface.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task02/soru" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task03/IMuhendis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task03/PcMuhendisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task03/task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task04/ICalisma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task04/IMuhendis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task04/MakineMuhendisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task04/PcMuhendisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task05/BilgisayarMuhendisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task05/IMuhendis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task05/IsbasvuruMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task05/MakineMuhendisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/task01/Cember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/task01/Dikdortgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/task01/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/task01/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/task01/Sekil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/task01/task01" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/task01/Sekil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j33_Interface/task01/task01" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j34_Iterators/C01_Iterators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j34_Iterators/C02_Previous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j34_Iterators/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j34_Iterators/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C01_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C03_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/Task.java" afterDir="false" />
+    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="13 KASIM 2022">
+      <change afterPath="$PROJECT_DIR$/src/JavaProjectVarMısınYokMusun/Kutu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/GeometriMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/GeometriMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Sekil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Sekil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/Sweet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/Sweet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Cember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Cember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Dikdortgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Dikdortgen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/GeometriMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/GeometriMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Sekil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Sekil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/Sweet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/Sweet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -345,7 +296,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668200668911</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="13 KASIM 2022">
+      <created>1668713593111</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1668713593111</updated>
+    </task>
+    <task id="LOCAL-00019" summary="13 KASIM 2022">
+      <created>1668713621908</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1668713621908</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -374,7 +339,8 @@
     <MESSAGE value="9 KASIM 2022" />
     <MESSAGE value="10 KASIM 2022" />
     <MESSAGE value="12 KASIM 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="12 KASIM 2022" />
+    <MESSAGE value="13 KASIM 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="13 KASIM 2022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
