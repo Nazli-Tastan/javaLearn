@@ -5,78 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="12 KASIM 2022">
-      <change afterPath="$PROJECT_DIR$/src/JavaProjectGiriş/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j25_Encapsulatıon/TASK/task06/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j25_Encapsulatıon/TASK/task06/Subscribe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j25_Encapsulatıon/TASK/task06/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract02/IdariPersonel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract02/Isci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract02/Personel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/abstract02/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/C01_İnterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/Lastik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/Sahin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/Tofas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/dısDonanım.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/icDonanım.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task02/carsInterface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task02/soru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task03/IMuhendis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task03/PcMuhendisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task03/task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task04/ICalisma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task04/IMuhendis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task04/MakineMuhendisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task04/PcMuhendisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task05/BilgisayarMuhendisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task05/IMuhendis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task05/IsbasvuruMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task05/MakineMuhendisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/task01/Cember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/task01/Dikdortgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/task01/Kare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/task01/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/task01/Sekil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/task01/task01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/task01/Sekil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j33_Interface/task01/task01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j34_Iterators/C01_Iterators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j34_Iterators/C02_Previous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j34_Iterators/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j34_Iterators/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C01_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C03_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GirisProjectt/GirisPaneli.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProjectGiriş/GirisPaneli.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GirisProjectt/Kayıt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProjectGiriş/Kayıt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GirisProjectt/Kullanıcı.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProjectGiriş/Kullanıcı.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GirisProjectt/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GirisProjectt/Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProjectGiriş/Task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/notHesap/InfoProject" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/notHesap/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/notHesap/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/notHesap/Teacher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/Islemler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/Kisi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/OKUL YO╠êNETI╠çM PLATFORMU.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/Ogrenci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/Ogretmen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/OkulYo╠ênetimi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi01/Task.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/Kisi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/MethodClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/OKUL YO╠êNETI╠çM PLATFORMU.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/Ogrenci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/Ogretmen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/OkulYonetimi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/OkulYo╠ênetimi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/T.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimi02/Task.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/AnaMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/AnaMenuInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/Islemler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/IslemlerInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/Kisi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/Ogrenci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/Ogretmen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/Task.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap01/TryCatches.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Degistirme.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/GirisCikisInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Islem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Kisi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Ogrenci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/OgrenciDegistirme.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/OgrenciIslemleri.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Ogretmen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/OgretmenDegistirme.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/OgretmenIslemleri.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProjectOkulYönetimi/P04_okulYo╠ênetimi/ogrcOgrtYonetimi/ogrcOgrtYonetimiMap02/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j15_Arrays/C01_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/C01_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j15_Arrays/C03_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/C03_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j15_Arrays/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/Task02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j15_Arrays/Task15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/Task15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j15_Arrays/Task16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/Task16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j15_Arrays/Task17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/Task17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j15_Arrays/Task18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/Task18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j16_ArrayList/C02_nCopies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j16_ArrayList/C02_nCopies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j17_ForEachLoop/C01_ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j17_ForEachLoop/C01_ForEachLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j17_ForEachLoop/C02_ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j17_ForEachLoop/C02_ForEachLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j17_ForEachLoop/C03_ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j17_ForEachLoop/C03_ForEachLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j18_Constructor/C02_Arac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j18_Constructor/C02_Arac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j18_Constructor/C03_StudentRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j18_Constructor/C03_StudentRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j20_PassByValue/C01_PassByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j20_PassByValue/C01_PassByValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j20_PassByValue/C02_PassByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j20_PassByValue/C02_PassByValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j22_DataTime/C08_Period.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j22_DataTime/C08_Period.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j23_Varargs/StringBuilder/C01_StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j23_Varargs/StringBuilder/C01_StringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j25_Encapsulatıon/TASK/task06/_03_Encapsulation3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j25_Encapsulatıon/TASK/ödev/_03_Encapsulation3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/GeometriMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/GeometriMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Sekil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Sekil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/Sweet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/Sweet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Cember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Cember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Dikdortgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Dikdortgen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/GeometriMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/GeometriMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Sekil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek2/Sekil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/Sweet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j32_Abstract/j32_Abstract/j32_Abstract/Ornek3/Sweet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +67,7 @@
       <list>
         <option value="package-info" />
         <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -103,7 +83,7 @@
     <option name="jreName" value="11" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2FzzF1pOCIhNUilhkpPNqrkBGBK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -111,29 +91,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/javaLearn/src/JavaProjectGiriş",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/javaLearn/src/j33_Interface&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="j25_Encapsulatıon" />
       <recent name="j18_Constructor" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j33_Interface" />
+      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\VarMisinYokMusun" />
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\JavaProjectGiriş" />
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j25_Encapsulatıon\TASK" />
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\JavaProjectOkulYönetimi\P04_okulYo╠ênetimi\notHesap" />
-      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\JavaProjectOkulYönetimi" />
-      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j32_Abstract" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j15_Arrays\HaftanınTaskii" />
@@ -146,13 +126,26 @@
       <recent name="j23_Varargs.Varargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GirisProjectt.Runner">
-    <configuration name="C07_IllegalargumentException01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j29_Exceptıon.C07_IllegalargumentException01" />
+  <component name="RunManager" selected="Application.C01_İnterface">
+    <configuration name="C01_İnterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j33_Interface.C01_İnterface" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j29_Exceptıon.*" />
+          <option name="PATTERN" value="j33_Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeometriMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j32_Abstract.j32_Abstract.j32_Abstract.Ornek2.GeometriMain" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j32_Abstract.j32_Abstract.j32_Abstract.Ornek2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,34 +199,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ÖrnekMutableImmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Müsvedde.ÖrnekMutableImmutable" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Müsvedde.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.C07_IllegalargumentException01" />
+      <item itemvalue="Application.C01_İnterface" />
+      <item itemvalue="Application.GeometriMain" />
       <item itemvalue="Application.GirisProjectt.Runner" />
       <item itemvalue="Application.Runner" />
       <item itemvalue="Application.Task01" />
-      <item itemvalue="Application.ÖrnekMutableImmutable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C01_İnterface" />
+        <item itemvalue="Application.GeometriMain" />
         <item itemvalue="Application.GirisProjectt.Runner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Task01" />
-        <item itemvalue="Application.C07_IllegalargumentException01" />
-        <item itemvalue="Application.ÖrnekMutableImmutable" />
       </list>
     </recent_temporary>
   </component>
