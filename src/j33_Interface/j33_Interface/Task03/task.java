@@ -1,4 +1,4 @@
-,package j33_Interface.j33_Interface.Task03;
+package j33_Interface.j33_Interface.Task03;
 
 public class task {
 

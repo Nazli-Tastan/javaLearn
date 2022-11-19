@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="13 KASIM 2022">
-      <change afterPath="$PROJECT_DIR$/src/JavaProjectVarMısınYokMusun/Kutu.java" afterDir="false" />
+    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="17 KASIM 2022">
+      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/C01_HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/C02_Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Müsvedde/C01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Müsvedde/C01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task03/task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task03/task.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,39 +85,26 @@
       <recent name="j23_Varargs.Varargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C01_İnterface">
+  <component name="RunManager" selected="Application.C01">
+    <configuration name="C01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Müsvedde.C01" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Müsvedde.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C01_İnterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="j33_Interface.C01_İnterface" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="j33_Interface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GeometriMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j32_Abstract.j32_Abstract.j32_Abstract.Ornek2.GeometriMain" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="j32_Abstract.j32_Abstract.j32_Abstract.Ornek2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GirisProjectt.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GirisProjectt.Runner" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GirisProjectt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j25_Encapsulatıon.TASK.task06.Runner" />
+    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j35_Collection.C01_LinkedList.C02_Set.Task01" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j25_Encapsulatıon.TASK.task06.*" />
+          <option name="PATTERN" value="j35_Collection.C01_LinkedList.C02_Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +132,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j29_Exceptıon.Task01" />
+    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j35_Collection.C01_LinkedList.C02_Set.Task02" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j29_Exceptıon.*" />
+          <option name="PATTERN" value="j35_Collection.C01_LinkedList.C02_Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j35_Collection.C01_LinkedList.C02_Set.Task04" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j35_Collection.C01_LinkedList.C02_Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,19 +160,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.C01" />
+      <item itemvalue="Application.Task02" />
+      <item itemvalue="Application.Task04" />
       <item itemvalue="Application.C01_İnterface" />
-      <item itemvalue="Application.GeometriMain" />
-      <item itemvalue="Application.GirisProjectt.Runner" />
-      <item itemvalue="Application.Runner" />
       <item itemvalue="Application.Task01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C01_İnterface" />
-        <item itemvalue="Application.GeometriMain" />
-        <item itemvalue="Application.GirisProjectt.Runner" />
-        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.C01" />
         <item itemvalue="Application.Task01" />
+        <item itemvalue="Application.Task04" />
+        <item itemvalue="Application.Task02" />
+        <item itemvalue="Application.C01_İnterface" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668713621908</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="17 KASIM 2022">
+      <created>1668726448622</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1668726448622</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,7 +355,8 @@
     <MESSAGE value="10 KASIM 2022" />
     <MESSAGE value="12 KASIM 2022" />
     <MESSAGE value="13 KASIM 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="13 KASIM 2022" />
+    <MESSAGE value="17 KASIM 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="17 KASIM 2022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
