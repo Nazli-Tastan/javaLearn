@@ -4,35 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="19 KASIM 2022">
-      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C03_Queue/C01_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C03_Queue/C02_Deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/C01_Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/C02_keySet_values.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/C03_get.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/C04_entrySet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/C05_clear_size_isEmpty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/C06_putAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/C07_containsKey_containsValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/C08_replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/C09_getOrDefault.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/C10_remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/C11_putIfAbsent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task08.java" afterDir="false" />
+    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="22 KASIM 2022">
+      <change afterPath="$PROJECT_DIR$/src/Projeler/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/TaskProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/C01_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/C01_HashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/C02_Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/C02_Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/Task01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/Task02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/Task03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/Task04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/Task05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j36_Map/C01_Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j36_Map/C01_Map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j36_Map/C02_Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j36_Map/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j36_Map/Task02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j36_Map/Task03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j36_Map/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j36_Map/Task04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j36_Map/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j36_Map/Task05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,18 +56,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/javaLearn/src/j33_Interface&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/javaLearn/src/j33_Interface",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="j25_Encapsulatıon" />
@@ -93,6 +80,8 @@
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\JavaProjectOkulYönetimi\P04_okulYo╠ênetimi\notHesap" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j36_Map" />
+      <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\Projeler" />
       <recent name="C:\Users\Asus\IdeaProjects\javaLearn\src\j15_Arrays\HaftanınTaskii" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -104,7 +93,7 @@
       <recent name="j23_Varargs.Varargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.main">
     <configuration name="C01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Müsvedde.C01" />
       <module name="javaLearn" />
@@ -177,9 +166,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projeler.P11_depoYonetimi.depoYonetimi05.main" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Projeler.P11_depoYonetimi.depoYonetimi05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.C01_Map" />
+      <item itemvalue="Application.main" />
       <item itemvalue="Application.C02_Map" />
       <item itemvalue="Application.C01" />
       <item itemvalue="Application.Task04" />
@@ -187,6 +190,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.C02_Map" />
         <item itemvalue="Application.C01" />
         <item itemvalue="Application.Task01" />
@@ -350,7 +354,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668890734706</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="22 KASIM 2022">
+      <created>1669149302469</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1669149302469</updated>
+    </task>
+    <task id="LOCAL-00023" summary="22 KASIM 2022">
+      <created>1669149502815</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1669149502815</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,7 +399,8 @@
     <MESSAGE value="12 KASIM 2022" />
     <MESSAGE value="13 KASIM 2022" />
     <MESSAGE value="17 KASIM 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="17 KASIM 2022" />
+    <MESSAGE value="22 KASIM 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="22 KASIM 2022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
