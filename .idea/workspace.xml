@@ -4,17 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="17 KASIM 2022">
-      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/C01_HashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/C02_Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task05.java" afterDir="false" />
+    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="19 KASIM 2022">
+      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C03_Queue/C01_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j35_Collection/C03_Queue/C02_Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/C01_Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/C02_keySet_values.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/C03_get.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/C04_entrySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/C05_clear_size_isEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/C06_putAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/C07_containsKey_containsValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/C08_replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/C09_getOrDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/C10_remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/C11_putIfAbsent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Müsvedde/C01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Müsvedde/C01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task03/task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j33_Interface/j33_Interface/Task03/task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/C01_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/C01_HashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/C02_Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/C02_Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/Task02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/Task03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/Task04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j35_Collection/C01_LinkedList/C02_Set/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j35_Collection/C02_Set/Task05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +99,12 @@
       <recent name="J26_Inheritance.inheritance01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="j35_Collection.C01_LinkedList" />
       <recent name="j24_AccessModifier" />
       <recent name="j23_Varargs.Varargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C01">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="C01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Müsvedde.C01" />
       <module name="javaLearn" />
@@ -99,12 +118,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_İnterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j33_Interface.C01_İnterface" />
+    <configuration name="C01_Map" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j36_Map.C01_Map" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j33_Interface.*" />
+          <option name="PATTERN" value="j36_Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j36_Map.C02_Map" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j36_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,19 +164,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j35_Collection.C01_LinkedList.C02_Set.Task02" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="j35_Collection.C01_LinkedList.C02_Set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="j35_Collection.C01_LinkedList.C02_Set.Task04" />
       <module name="javaLearn" />
@@ -160,19 +179,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.C01_Map" />
+      <item itemvalue="Application.C02_Map" />
       <item itemvalue="Application.C01" />
-      <item itemvalue="Application.Task02" />
       <item itemvalue="Application.Task04" />
-      <item itemvalue="Application.C01_İnterface" />
       <item itemvalue="Application.Task01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C02_Map" />
         <item itemvalue="Application.C01" />
         <item itemvalue="Application.Task01" />
         <item itemvalue="Application.Task04" />
-        <item itemvalue="Application.Task02" />
-        <item itemvalue="Application.C01_İnterface" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668726448622</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="17 KASIM 2022">
+      <created>1668890734705</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1668890734706</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

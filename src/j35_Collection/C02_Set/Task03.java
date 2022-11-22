@@ -1,4 +1,4 @@
-package j35_Collection.C01_LinkedList.C02_Set;
+package j35_Collection.C02_Set;
 
 import java.util.ArrayList;
 import java.util.Arrays;
