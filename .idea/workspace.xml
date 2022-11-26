@@ -4,23 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="22 KASIM 2022">
-      <change afterPath="$PROJECT_DIR$/src/Projeler/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j36_Map/TaskProject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="23KASIM 2022">
+      <change afterPath="$PROJECT_DIR$/src/J99_Lambda/C01_LambdaExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J99_Lambda/C02_filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J99_Lambda/C03_map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J99_Lambda/C04_reduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J99_Lambda/C05_sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J99_Lambda/C06_distinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/C12_HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/C13_TreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j36_Map/Task02_Kartvizit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j36_Map/C01_Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j36_Map/C01_Map.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j36_Map/C02_Map.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/j36_Map/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j36_Map/Task02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j36_Map/Task03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j36_Map/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j36_Map/Task04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j36_Map/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j36_Map/Task05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -368,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669149502815</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="23KASIM 2022">
+      <created>1669155884940</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1669155884940</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -400,7 +402,8 @@
     <MESSAGE value="13 KASIM 2022" />
     <MESSAGE value="17 KASIM 2022" />
     <MESSAGE value="22 KASIM 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="22 KASIM 2022" />
+    <MESSAGE value="23KASIM 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="23KASIM 2022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
