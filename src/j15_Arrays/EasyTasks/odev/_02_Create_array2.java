@@ -12,7 +12,13 @@ public class _02_Create_array2 {
      */
         // Kodu aşağıya yazınız..
 
-    int arr[]={13,15,14,16,16};
+   
+   
+   int array[]={13,15,14,16,16};
+        System.out.println("array.toString() = " + Arrays.toString(array));
+
+
+        int arr[]={13,15,14,16,16};
         System.out.println("int Array=" +Arrays.toString(arr));
 
 

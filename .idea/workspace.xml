@@ -4,35 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="28 KASIM 2022">
-      <change afterPath="$PROJECT_DIR$/src/UğurHoca/ReversingStringCodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/calismaKlasörü2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j15_Arrays/çalismaKlasörü.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project_aracKiralama/AracTalebi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project_aracKiralama/MusteriVeArabaBilgisiGirisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project_aracKiralama/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project_aracKiralama/Task.txt" afterDir="false" />
+    <list default="true" id="c768e2a7-5228-4125-a068-a0e429b3c2b6" name="Changes" comment="8  12 2022">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/J99_Lambda/C12_textRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/J99_Lambda/C12_textRead.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C07_MdArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/C07_MdArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_01_Create_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j15_Arrays/EasyTasks/odev/_01_Create_array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C03_Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C03_Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C04_Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C04_Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C05_Arac.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C05_Arac.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C06_Ogrc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C06_Ogrc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C07_Ogrtm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j18_Constructor/C07_Ogrtm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/HaftaninSorusu/Kullanıcı.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j22_DataTime/HaftaninSorusu/Kullanıcı.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaLearn/j24_AccessModifier/C01_AccessModifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaLearn/j24_AccessModifier/C01_AccessModifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j15_Arrays/C07_MdArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/C07_MdArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_01_Create_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_01_Create_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j16_ArrayList/C05_size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j16_ArrayList/C05_size.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j18_Constructor/C03_Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j18_Constructor/C03_Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j18_Constructor/C04_Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j18_Constructor/C04_Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j18_Constructor/C05_Arac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j18_Constructor/C05_Arac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j18_Constructor/C06_Ogrc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j18_Constructor/C06_Ogrc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j18_Constructor/C07_Ogrtm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j18_Constructor/C07_Ogrtm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j22_DataTime/HaftaninSorusu/Kullanıcı.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j22_DataTime/HaftaninSorusu/Kullanıcı.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j24_AccessModifier/C01_AccessModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j24_AccessModifier/C01_AccessModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_02_Create_array2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_02_Create_array2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_03_Create_array3_int.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_03_Create_array3_int.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_04_Create_Array_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j15_Arrays/EasyTasks/odev/_04_Create_Array_String.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,17 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/javaLearn/src/project_aracKiralama",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/javaLearn/src/project_aracKiralama&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="j25_Encapsulatıon" />
@@ -106,52 +83,13 @@
       <recent name="j23_Varargs.Varargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C15_ArrayConvertList">
+  <component name="RunManager" selected="Application._04_Create_Array_String">
     <configuration name="C01_Map" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="j36_Map.C01_Map" />
       <module name="javaLearn" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="j36_Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C07_subList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HalukJava.src.j16_ArrayList.C07_subList" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HalukJava.src.j16_ArrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C08_isEmpty_clear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HalukJava.src.j16_ArrayList.C08_isEmpty_clear" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HalukJava.src.j16_ArrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C09_equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HalukJava.src.j16_ArrayList.C09_equals" />
-      <module name="javaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HalukJava.src.j16_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,22 +130,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_02_Create_array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j15_Arrays.EasyTasks.odev._02_Create_array2" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j15_Arrays.EasyTasks.odev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_Create_array3_int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j15_Arrays.EasyTasks.odev._03_Create_array3_int" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j15_Arrays.EasyTasks.odev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_04_Create_Array_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j15_Arrays.EasyTasks.odev._04_Create_Array_String" />
+      <module name="javaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j15_Arrays.EasyTasks.odev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.C01_Map" />
-      <item itemvalue="Application.C07_subList" />
-      <item itemvalue="Application.C08_isEmpty_clear" />
-      <item itemvalue="Application.C09_equals" />
+      <item itemvalue="Application._02_Create_array2" />
+      <item itemvalue="Application._03_Create_array3_int" />
+      <item itemvalue="Application._04_Create_Array_String" />
       <item itemvalue="Application.C13_replaceAll_fill" />
       <item itemvalue="Application.C15_ArrayConvertList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._04_Create_Array_String" />
+        <item itemvalue="Application._03_Create_array3_int" />
+        <item itemvalue="Application._02_Create_array2" />
         <item itemvalue="Application.C15_ArrayConvertList" />
         <item itemvalue="Application.C13_replaceAll_fill" />
-        <item itemvalue="Application.C09_equals" />
-        <item itemvalue="Application.C08_isEmpty_clear" />
-        <item itemvalue="Application.C07_subList" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669743581649</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="8  12 2022">
+      <created>1670497832917</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1670497832917</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -458,7 +442,8 @@
     <MESSAGE value="23KASIM 2022" />
     <MESSAGE value="26 KASIM 2022" />
     <MESSAGE value="28 KASIM 2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="28 KASIM 2022" />
+    <MESSAGE value="8  12 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="8  12 2022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

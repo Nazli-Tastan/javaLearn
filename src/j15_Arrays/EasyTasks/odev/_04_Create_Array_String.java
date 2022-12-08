@@ -12,9 +12,15 @@ public class _04_Create_Array_String {
         Cevap 4 olmalı.
          */
 
-    String arr[]={"new jersey","new york","boston","California"};
+        String arr[]= {"new jersey" , "new york", "boston","California"};
+        System.out.println("arr.length = " + arr.length);
+
+/*
+        String arr[]={"new jersey","new york","boston","California"};
         System.out.println("Array'daki eleman sayısı="+(arr.length));
 
+
+ */
 
     }
 }

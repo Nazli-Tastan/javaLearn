@@ -20,7 +20,6 @@ _01_Create_array {
         //Kodu aşağıya yazınız.
 
 
-
         String arr[]=new String[4];
 
       arr[0]="Apple";
@@ -29,6 +28,8 @@ _01_Create_array {
        arr[3]="Kiwi";
 
      System.out.println("Arrays.toString(arr)=" + Arrays.toString(arr));
+
+
 
     }
 }
