@@ -9,8 +9,8 @@ public class C05_Arac {
             2) Bir Constructor icinden sadece bir tane Constructor cagirisi yapabilirsiniz.Cunku iki tane cagri yaprsaz
     birisi ilk satirda olamayacaktir, bu da ilk kuralla celisir.
             */
-    int maxHız;
-    String model;
+    public int maxHız;
+    public String model;
 
     public C05_Arac(int maxHız) {//1p'li cons
         this(180,"hacıMurat");//2 p'li cons. call edildi..ilk satıra yazılmalı

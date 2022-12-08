@@ -2,13 +2,13 @@ package j18_Constructor;
 
 public class C04_Teacher {
     public int tecrübe;//ogtremen obj ureten kalıphane Class
-    String ad;
-    String soyad;
-    String branş;
-    int tecrube;
-    double maaş;
+    public String ad;
+    public String soyad;
+    public String branş;
+    public int tecrube;
+    public double maaş;
     int id;
-    boolean emekli;
+    public boolean emekli;
 
     public void dersSaati() {
 

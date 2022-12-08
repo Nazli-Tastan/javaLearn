@@ -3,10 +3,10 @@ package j18_Constructor;
 public class C06_Ogrc {
 
     //Fields
-    String  isim="Merwe Hanım ";
-    int yas;
-    String name;
-    int age;
+    public String  isim="Merwe Hanım ";
+    public int yas;
+    public String name;
+    public int age;
 
     public C06_Ogrc(String isim, int yas) {//2p'li cons.
         // this.isim = isim;//parametre isim değeri inst. obj isim değerine atandı

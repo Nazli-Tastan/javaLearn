@@ -2,7 +2,12 @@ package j15_Arrays.EasyTasks.odev;
 
 import java.util.Arrays;
 
-public class _01_Create_array {
+public class
+
+
+
+
+_01_Create_array {
 
     public static void main(String[] args) {
         /*
@@ -13,15 +18,17 @@ public class _01_Create_array {
          */
 
         //Kodu aşağıya yazınız.
-        //
+
+
+
         String arr[]=new String[4];
 
-       arr[0]="Apple";
+      arr[0]="Apple";
        arr[1]="Orange";
        arr[2]="Banana";
-        arr[3]="Kiwi";
+       arr[3]="Kiwi";
 
-        System.out.println("Arrays.toString(arr)=" + Arrays.toString(arr));
+     System.out.println("Arrays.toString(arr)=" + Arrays.toString(arr));
 
     }
 }

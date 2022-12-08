@@ -11,6 +11,16 @@ public class C07_MdArrays {
         };//3 katlı apt
 
 
+        for (int kat=0; kat<arr.length; kat++) {
+            int toplam=0;
+            for (int daire=0; daire<arr[kat].length; daire++) {
+                toplam+=arr[kat][daire];
+
+
+            }
+            System.out.println("kattaki daire toplamı : "+toplam);
+        }
+
 
 
 
